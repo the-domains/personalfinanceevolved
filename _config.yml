@@ -1,0 +1,28 @@
+name: Personal Finance Evolved
+favicon: null
+layout_spectrum: 0.9732405818067491
+typography_spectrum: 0.04488251591101289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2923271234612912
+  lightness: 0.44105854583904147
+  saturation: 0.48496645223349333
+  rhythmicContrast: 0.7026644668076187
+purpose: []
